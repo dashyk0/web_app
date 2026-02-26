@@ -1,0 +1,24 @@
+# Виртуальное окружение
+ve/
+venv/
+.venv/
+env/
+
+# Python кэш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.sublime-*
+
+# Windows мусор
+Thumbs.db
+desktop.ini
+
+# Личные файлы (если есть)
+*.log
+*.tmp

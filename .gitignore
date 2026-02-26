@@ -19,6 +19,6 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
-# Личные файлы (если есть)
+# Личные файлы
 *.log
 *.tmp
